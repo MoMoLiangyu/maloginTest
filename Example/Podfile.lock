@@ -1,0 +1,16 @@
+PODS:
+  - MALoginDemo (0.1.0)
+
+DEPENDENCIES:
+  - MALoginDemo (from `../`)
+
+EXTERNAL SOURCES:
+  MALoginDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MALoginDemo: 9a695d91235c9eb47f597f0b3af45364ca6892b7
+
+PODFILE CHECKSUM: d36170c52dc3eb1a74f66dbf1a1f648017800d1d
+
+COCOAPODS: 1.9.1
